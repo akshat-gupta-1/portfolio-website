@@ -7,7 +7,7 @@ export const projects = [
     ],
     tech: ['Javascript', 'React', 'TailwindCSS'],
     github: 'https://github.com/akshat-gupta-1/Car-Rental-App',
-    livePreview: '',
+    livePreview: 'https://car-rental-app-jade.vercel.app/',
   },
   {
     title: 'Wonder Buy',
