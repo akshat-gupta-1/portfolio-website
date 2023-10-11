@@ -18,7 +18,7 @@ export const projects = [
     ],
     tech: ['Typescript', 'React', 'TailwindCSS', 'NodeJS', 'MongoDB'],
     github: 'https://github.com/akshat-gupta-1/WonderBuy-Ecommerce-App',
-    livePreview: '',
+    livePreview: 'https://wonder-buy.vercel.app/',
   },
   {
     title: 'AquaWatch',
@@ -27,6 +27,6 @@ export const projects = [
     ],
     tech: ['Javascript', 'ReactNative', 'TailwindCSS', 'Supabase'],
     github: 'https://github.com/akshat-gupta-1/AquaWatch',
-    livePreview: '',
+    livePreview: 'https://github.com/akshat-gupta-1/AquaWatch',
   },
 ];
