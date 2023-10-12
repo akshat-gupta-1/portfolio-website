@@ -3,7 +3,7 @@ const navBarItems = [
   { name: 'home', href: '/' },
   { name: 'about', href: '/about' },
   { name: 'projects', href: '/projects' },
-  { name: 'resume', href: '/resume' },
+  { name: 'resume', href: '/Resume.pdf' },
 ];
 interface Props {
   children: React.ReactNode;

@@ -1,4 +1,5 @@
 import { IconBrandLinkedin, IconBrandGithub } from '@tabler/icons-react';
+import { Mail } from 'lucide-react';
 const HeroSection = () => {
   return (
     <div className="mt-[70px] mb-12 md:my-[70px] grid gap-x-6 md:grid-cols-[300px_1fr] grid-cols-1">
@@ -27,6 +28,9 @@ const HeroSection = () => {
             </a>
             <a href="https://github.com/akshat-gupta-1">
               <IconBrandGithub size={32} className="hover:text-primary" />
+            </a>
+            <a href="mailto:akshatgupta1408@gmail.com">
+              <Mail size={32} className="hover:text-primary" />
             </a>
           </div>
         </div>

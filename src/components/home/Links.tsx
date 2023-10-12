@@ -23,7 +23,7 @@ const Links = () => {
         </li>
         <li>
           <a
-            href="/resume"
+            href="/Resume.pdf"
             className="text-primary hover:text-white hover:bg-primary underline ml-2"
           >
             view resume
